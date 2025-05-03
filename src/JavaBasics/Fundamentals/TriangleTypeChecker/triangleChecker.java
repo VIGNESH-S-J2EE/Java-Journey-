@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class triangleChecker {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 14, 2024
+         * Time: 05:00:00 PM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class BMI {
     public static void main(String[] args) {
+
+        /*
+         * Author: S.Vignesh
+         * Created: November 12, 2024
+         * Time: 06:00:00 PM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

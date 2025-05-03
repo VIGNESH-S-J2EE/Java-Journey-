@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class SimpleCalculator {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 12, 2024
+         * Time: 08:30:00 PM
+         */
         // Create Scanner Class
         Scanner scanner = new Scanner(System.in);
 

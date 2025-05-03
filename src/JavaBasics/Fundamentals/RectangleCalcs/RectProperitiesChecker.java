@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class RectProperitiesChecker {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 14, 2024
+         * Time: 06:10:00 AM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

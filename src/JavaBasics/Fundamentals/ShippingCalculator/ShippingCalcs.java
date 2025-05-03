@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class ShippingCalcs {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 14, 2024
+         * Time: 07:00:00 AM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

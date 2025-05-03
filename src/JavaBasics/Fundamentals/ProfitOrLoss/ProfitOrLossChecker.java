@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class ProfitOrLossChecker {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 13, 2024
+         * Time: 10:35:00 PM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

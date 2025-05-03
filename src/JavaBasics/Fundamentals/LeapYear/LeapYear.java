@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class LeapYear {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 13, 2024
+         * Time: 06:55:00 PM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 

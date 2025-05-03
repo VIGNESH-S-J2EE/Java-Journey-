@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Eligibility {
     public static void main(String[] args) {
+        /*
+         * Author: S.Vignesh
+         * Created: November 12, 2024
+         * Time: 06:35:00 PM
+         */
         // Scanner Class
         Scanner scan = new Scanner(System.in);
 
